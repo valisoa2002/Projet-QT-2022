@@ -1,0 +1,12 @@
+debug/addclient.o
+debug/client.o
+debug/deleteclient.o
+debug/main.o
+debug/mainwindow.o
+debug/updateclient.o
+debug/qrc_resource.o
+debug/moc_addclient.o
+debug/moc_client.o
+debug/moc_deleteclient.o
+debug/moc_mainwindow.o
+debug/moc_updateclient.o

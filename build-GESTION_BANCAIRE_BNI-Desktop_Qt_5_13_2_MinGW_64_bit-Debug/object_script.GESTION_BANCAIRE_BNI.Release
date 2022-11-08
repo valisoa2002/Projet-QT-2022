@@ -1,0 +1,12 @@
+release/addclient.o
+release/client.o
+release/deleteclient.o
+release/main.o
+release/mainwindow.o
+release/updateclient.o
+release/qrc_resource.o
+release/moc_addclient.o
+release/moc_client.o
+release/moc_deleteclient.o
+release/moc_mainwindow.o
+release/moc_updateclient.o
